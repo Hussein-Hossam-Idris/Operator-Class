@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1541081409 source:d:\c++ programms\second year\assignment 2\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1541080702 d:\c++ programms\second year\assignment 2\include\matrix.h
+	<iostream>
+	<iomanip>
+
+1541081851 source:d:\c++ programms\second year\assignment 2\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<iomanip>
+
+1541081409 source:c:\users\forwa\desktop\fci-cs213-a2-2018-amira-g13-20170352-20170363-20170341\assignment 2\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1541080702 c:\users\forwa\desktop\fci-cs213-a2-2018-amira-g13-20170352-20170363-20170341\assignment 2\include\matrix.h
+	<iostream>
+	<iomanip>
+
+1541101025 source:c:\users\forwa\desktop\fci-cs213-a2-2018-amira-g13-20170352-20170363-20170341\assignment 2\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<iomanip>
+
